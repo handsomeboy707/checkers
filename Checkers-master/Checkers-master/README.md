@@ -1,7 +1,6 @@
 # Checkers
 Simple Checkers game in Unity.
 
-## Authors
 
 ## Built with
 
