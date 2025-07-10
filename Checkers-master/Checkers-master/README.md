@@ -11,4 +11,4 @@ Simple Checkers game in Unity.
 ## Screenshots
 | <img src="Screenshots/Menu.png" width="480"> | <img src="Screenshots/Board.png" width="480"> |
 |:-------------------------:|:-------------------------:|
-| <img src="Screenshots/BigBoard.png" width="480"> | <img src="Screenshots/Promotion.png" width="480"> |
+| <img src="Screenshots/bigboard2.png" width="480"> | <img src="Screenshots/Promotion.png" width="480"> |
